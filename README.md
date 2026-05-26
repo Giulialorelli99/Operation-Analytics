@@ -6,10 +6,10 @@ BBS/operation_analytics
 
 Gruppo_bello
 
-Folder conention
+## Folder conention
 
-list of lecture 2 deliverables 
+## list of lecture 2 deliverables 
 
-how to inspect the putt requst and peer review 
+## how to inspect the putt requst and peer review 
 
-privaty rule: no tokes, private data, or screenshots of accounts
+## privaty rule: no tokes, private data, or screenshots of accounts

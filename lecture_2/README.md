@@ -6,7 +6,7 @@ BBS/operation_analytics
 
 Gruppo_bello
 
-## Folder conention
+## Folder convention
 
 ## list of lecture 2 deliverables 
 

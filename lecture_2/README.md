@@ -12,8 +12,8 @@ We do not fixed any convention yet.
 ## list of lecture 2 deliverables
 Understanding how to operate simultaneously on github.
 
-## how to inspect the pull requst and peer review
+## how to inspect the pull request and peer review
 TBD
 
-## privaty rule: no tokes, private data, or screenshots of accounts
+## privacy rule: no tokens, private data, or screenshots of accounts
 TBD
